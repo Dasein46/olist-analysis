@@ -68,13 +68,13 @@
 ## Скриншоты отчета
 
 ### Обзор продаж
-![Обзор продаж](screenshots/sales_overview.png)
+![Обзор продаж](sales_overview.png)
 
 ### Категории товаров
-![Категории товаров](screenshots/product_categories.png)
+![Категории товаров](product_categories.png)
 
 ### Доставка и отзывы
-![Доставка и отзывы](screenshots/delivery_reviews.png)
+![Доставка и отзывы](delivery_reviews.png)
 
 ## Файлы проекта
 
